@@ -67,6 +67,7 @@
         "workspaceContains:**/Cargo.toml"
     ],
     "main": "./out/src/main",
+    "browser": "./out/src/main",
     "contributes": {
         "taskDefinitions": [
             {
